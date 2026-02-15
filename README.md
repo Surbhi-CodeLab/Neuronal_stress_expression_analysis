@@ -97,9 +97,7 @@ The dataset used in this project was obtained from a **public transcriptomics da
 * Experimental condition: Stress (Sleep-deprived) vs control (Normal Sleep)
 * Data type: RNA-seq / microarray (as applicable)
 
-📎 **Original research article and dataset accession ID are cited below.**
-GSE283582
-Yamazaki S, Valekunja UK, Chen-Roetling J, Reddy AB. Heat Shock Factor 1 Governs Sleep-Wake Cycles Across Species. bioRxiv [Preprint]. 2024 Nov 17:2024.11.15.623879. doi: 10.1101/2024.11.15.623879. PMID: 39605613; PMCID: PMC11601485.
+📎 *Original research article and dataset accession ID are cited below at the end.*
 ---
 
 ### Why This Dataset?
@@ -215,4 +213,4 @@ Thank you for checking out this mini-project!
 If you are interested in extending or discussing this work, feel free to connect. 
 Feedbacks are always welcome ! 
 
-Author - Surbhi Yadav 
+*Author - Surbhi Yadav* 
