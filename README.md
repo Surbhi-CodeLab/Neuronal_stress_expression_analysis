@@ -159,8 +159,7 @@ Neuronal_stress_expression_analysis/
 ├── noteboooks/        # python jupyter notebook used for analysis
 ├── results/figures/   # Generated figures and visualizations
 ├── results/table      # Summary tables and outputs
-├── README.md          # Project documentation
-└── requirements.txt   # Dependencies
+└── README.md          # Project documentation
 ```
 
 ---
