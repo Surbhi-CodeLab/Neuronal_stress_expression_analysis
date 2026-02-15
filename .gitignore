@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Raw data (large files)
+data/raw/*.csv
+data/raw/*.gz
+
+# OS
+.DS_Store
+Thumbs.db
